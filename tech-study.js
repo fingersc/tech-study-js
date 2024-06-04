@@ -5680,6 +5680,10 @@ function SettingsPanel({ show }) {
                         label: '40s',
                         value: 40,
                     },
+                     {
+                        label: '50s',
+                        value: 50,
+                    },
                     {
                         label: '60s',
                         value: 60,
@@ -5725,6 +5729,10 @@ function SettingsPanel({ show }) {
                     {
                         label: '40s',
                         value: 40,
+                    },
+                    {
+                        label: '50s',
+                        value: 50,
                     },
                     {
                         label: '60s',
